@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="minus_btn">minusBtn</string>
+    <string name="plus_btn">plus btn</string>
+    <string name="app_name">QuantityView</string>
+</resources>

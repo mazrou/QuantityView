@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="QuantityView">
+        <attr name="qt_enable" format="boolean"/>
+        <attr name="qt_start_from" format="integer" />
+        <attr name="qt_max_value" format="integer" />
+        <attr name="qt_min_value" format="integer" />
+        <attr name="qt_delta_value" format="integer" />
+        <attr name="qt_color" format="color"/>
+        <attr name="qt_textSize" format="dimension" />
+    </declare-styleable>
+</resources>
