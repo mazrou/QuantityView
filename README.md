@@ -46,6 +46,6 @@ The folowing table represant the other attribute of QuantityView :
   
 
 ### Contribution
-Any suggestions are welcome, or you can add a PR (Pull request)
+> Any suggestions are welcome, or you can add a PR (Pull request)
 
 
