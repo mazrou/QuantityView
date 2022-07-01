@@ -21,7 +21,7 @@
 ```
 [![](https://jitpack.io/v/mazrou/QuantityView.svg)](https://jitpack.io/#mazrou/QuantityView)
 
-## Usage 
+## Usage
 > To use the Quantity view in your project : 
 ``` XML
     <com.mazrou.quantityView.QuantityView
